@@ -91,7 +91,7 @@ You can find the final raw result in [there](https://github.com/wjh-scut/FAEMTra
 ## 6. Visualization
 Visualizing tracking results in different video sequences of MDOT.
 <div  align="center">    
- <img src="./figure/tracking_results.pdf" width = "777"  align=center />
+ <img src="./figure/tracking_results.png" width = "777"  align=center />
 </div>  
 <br>
 
