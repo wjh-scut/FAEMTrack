@@ -40,7 +40,7 @@ Create the default environment setting files.
     # Environment settings for ltr. Saved at ltr/admin/local.py
     python -c "from ltr.admin.environment import create_default_local_file; create_default_local_file()"
     ```
-### Add FAEMTrack to your PYTHONPATH
+* Add FAEMTrack to your PYTHONPATH
 ```bash
 export PYTHONPATH=/path/to/FAEMTrack:$PYTHONPATH (for linux)
 set PYTHONPATH=%PYTHONPATH%;/path/to/FAEMTrack (for windows)
