@@ -56,7 +56,7 @@ We use LaSOT, GOT-10k, TrackingNet, and COCO in this work. See [dataset](https:/
 
 ## 3. Traning
 * Modify [local.py](ltr/admin/local.py) to set the paths to datasets, results paths etc.
-* Runing the following commands to train the CRM-DiMP. You can customize some parameters by modifying [super_dimp.py](ltr/train_settings/dimp/super_dimp.py)
+* Runing the following commands to train the FAEMTrack. You can customize some parameters by modifying [super_dimp.py](ltr/train_settings/dimp/super_dimp.py)
     ```bash
     conda activate FAEMTrack
     cd FAEMTrack/ltr
